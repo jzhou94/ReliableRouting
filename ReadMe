@@ -1,0 +1,6 @@
+To run the program, compile the C code with a C compiler.
+
+To input the different variables, go to line 493 of init, where simulator variables are initiated.
+The variables can also be inputted while running by commenting out the variables and commenting in the scans I have provided.
+
+The messages will be outputted in an output file, while the simulation messaged will print in the program on run.
